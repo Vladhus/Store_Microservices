@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tempo\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
+    "D:\\tempo\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {}
   },
   "projects": {
-    "D:\\tempo\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {
+    "D:\\tempo\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tempo\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-        "projectName": "Catalog.API",
-        "projectPath": "D:\\tempo\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "D:\\tempo\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+        "projectName": "Basket.API",
+        "projectPath": "D:\\tempo\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
         "packagesPath": "C:\\Users\\vladh\\.nuget\\packages\\",
-        "outputPath": "D:\\tempo\\src\\Services\\Catalog\\Catalog.API\\obj\\",
+        "outputPath": "D:\\tempo\\src\\Services\\Basket\\Basket.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -59,13 +59,9 @@
                 "NU1605"
               ]
             },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
-              "version": "[1.10.9, )"
-            },
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.12.4, )"
+              "version": "[5.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

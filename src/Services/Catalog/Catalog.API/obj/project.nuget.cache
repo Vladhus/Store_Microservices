@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "erF+onTNQVeyrGTqYECv2m2k6SC4FdtBadV0bBKlWPRoL3Wse5jB50buQuxz15kOGN9lswWOC5vSKBFmBuppTg==",
+  "dgSpecHash": "3dpMk06NQrKMxg+U6M30BJwmtPOExomVw2kDVbAPSIq5A1DuUPgx3ip59PK4r6aYSjGKvFmD+WrKHXhB+uunag==",
   "success": true,
   "projectFilePath": "D:\\tempo\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\vladh\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vladh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\mongodb.bson\\2.12.4\\mongodb.bson.2.12.4.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\mongodb.driver\\2.12.4\\mongodb.driver.2.12.4.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\mongodb.driver.core\\2.12.4\\mongodb.driver.core.2.12.4.nupkg.sha512",
