@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tempo\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {}
+    "D:\\tempo\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj": {}
   },
   "projects": {
-    "D:\\tempo\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {
+    "D:\\tempo\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tempo\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
-        "projectName": "Basket.API",
-        "projectPath": "D:\\tempo\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+        "projectUniqueName": "D:\\tempo\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj",
+        "projectName": "Discount.API",
+        "projectPath": "D:\\tempo\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj",
         "packagesPath": "C:\\Users\\vladh\\.nuget\\packages\\",
-        "outputPath": "D:\\tempo\\src\\Services\\Basket\\Basket.API\\obj\\",
+        "outputPath": "D:\\tempo\\src\\Services\\Discount\\Discount.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -47,33 +47,21 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[5.0.7, )",
+              "version": "[5.0.0, )",
               "noWarn": [
                 "NU1605"
               ]
             },
             "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
               "target": "Package",
-              "version": "[5.0.7, )",
+              "version": "[5.0.0, )",
               "noWarn": [
                 "NU1605"
               ]
             },
-            "Microsoft.Extensions.Caching.StackExchangeRedis": {
-              "target": "Package",
-              "version": "[5.0.1, )"
-            },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.10.9, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.1.4, )"
+              "version": "[5.6.3, )"
             }
           },
           "imports": [
