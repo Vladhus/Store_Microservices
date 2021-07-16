@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UpX+k0gAHCljAbkHd6j+Uudp3G5cqXrQmDj6L+hjfAiwWgzpcqHbOnpMEfEiG+mF0jYYOq1QAVxS97zvD92+yg==",
+  "dgSpecHash": "W9+T0F4I1hSRD6ccL5rusFRZ/24LMea2SdKcU/S6W8U9rkgI+Zm8clahK4hs3mgTQ2eRIRdPLXLhB+W65Ych0g==",
   "success": true,
   "projectFilePath": "D:\\tempo\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\vladh\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vladh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
