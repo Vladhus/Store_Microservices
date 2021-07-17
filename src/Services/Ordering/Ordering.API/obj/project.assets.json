@@ -203,6 +203,42 @@
             "rid": "win"
           }
         }
+      },
+      "Ordering.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Ordering.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ordering.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordering.Application.dll": {}
+        }
+      },
+      "Ordering.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Ordering.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordering.Domain.dll": {}
+        }
+      },
+      "Ordering.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Ordering.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ordering.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordering.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -576,12 +612,29 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Ordering.Application/1.0.0": {
+      "type": "project",
+      "path": "../Ordering.Application/Ordering.Application.csproj",
+      "msbuildProject": "../Ordering.Application/Ordering.Application.csproj"
+    },
+    "Ordering.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Ordering.Domain/Ordering.Domain.csproj",
+      "msbuildProject": "../Ordering.Domain/Ordering.Domain.csproj"
+    },
+    "Ordering.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Ordering.Infrastructure/Ordering.Infrastructure.csproj",
+      "msbuildProject": "../Ordering.Infrastructure/Ordering.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.0",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 5.0.0",
+      "Ordering.Application >= 1.0.0",
+      "Ordering.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -618,7 +671,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\tempo\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj": {
+              "projectPath": "D:\\tempo\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj"
+            },
+            "D:\\tempo\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj": {
+              "projectPath": "D:\\tempo\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
