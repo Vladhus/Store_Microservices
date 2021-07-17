@@ -31,3 +31,5 @@ D:\tempo\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.pdb
 D:\tempo\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.genruntimeconfig.cache
 D:\tempo\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Dapper.dll
 D:\tempo\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Npgsql.dll
+D:\tempo\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\AutoMapper.dll
+D:\tempo\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

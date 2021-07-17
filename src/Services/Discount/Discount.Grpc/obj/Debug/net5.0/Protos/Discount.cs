@@ -25,7 +25,7 @@ namespace Discount.Grpc.Protos {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
             "ChVQcm90b3MvZGlzY291bnQucHJvdG8iKQoSR2V0RGlzY291bnRSZXF1ZXN0",
-            "EhMKC3Byb2R1Y3ROYW1lGAEgASgJIlMKC0NvdXBvbk1vZGVsEgoKAmlkGAEg",
+            "EhMKC1Byb2R1Y3ROYW1lGAEgASgJIlMKC0NvdXBvbk1vZGVsEgoKAmlkGAEg",
             "ASgFEhMKC3Byb2R1Y3ROYW1lGAIgASgJEhMKC2Rlc2NyaXB0aW9uGAMgASgJ",
             "Eg4KBmFtb3VudBgEIAEoBSI1ChVDcmVhdGVEaXNjb3VudFJlcXVlc3QSHAoG",
             "Y291cG9uGAEgASgLMgwuQ291cG9uTW9kZWwiNQoVVXBkYXRlRGlzY291bnRS",
@@ -92,7 +92,7 @@ namespace Discount.Grpc.Protos {
       return new GetDiscountRequest(this);
     }
 
-    /// <summary>Field number for the "productName" field.</summary>
+    /// <summary>Field number for the "ProductName" field.</summary>
     public const int ProductNameFieldNumber = 1;
     private string productName_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]

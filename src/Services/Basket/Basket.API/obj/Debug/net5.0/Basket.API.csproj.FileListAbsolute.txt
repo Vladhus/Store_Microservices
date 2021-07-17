@@ -44,3 +44,10 @@ D:\tempo\src\Services\Basket\Basket.API\obj\Debug\net5.0\Basket.API.dll
 D:\tempo\src\Services\Basket\Basket.API\obj\Debug\net5.0\ref\Basket.API.dll
 D:\tempo\src\Services\Basket\Basket.API\obj\Debug\net5.0\Basket.API.pdb
 D:\tempo\src\Services\Basket\Basket.API\obj\Debug\net5.0\Basket.API.genruntimeconfig.cache
+D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Google.Protobuf.dll
+D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Common.dll

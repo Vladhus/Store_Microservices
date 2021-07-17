@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gdy19iXiLMJ7HYa3Z1mcwkd7PSuXC1rP6xT6hWOAYYnDxZcwOGojmMp0L2VVE8EZGeIKJQMcDMPWqhqBe4YKkw==",
+  "dgSpecHash": "NF91ksfE6j5yxMswIbDltdbmI15x2KpiAJl2t/BuEixYubU/XkYNOxSupn3PQBtAbxdTtLKv7xrq6/fSLkpsUA==",
   "success": true,
   "projectFilePath": "D:\\tempo\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\vladh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\vladh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\vladh\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
