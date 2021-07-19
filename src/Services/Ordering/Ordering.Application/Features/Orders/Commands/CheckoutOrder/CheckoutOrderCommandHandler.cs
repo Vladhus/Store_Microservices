@@ -2,12 +2,10 @@
 using MediatR;
 using Microsoft.Extensions.Logging;
 using Ordering.Application.Contracts.Infrastructure;
-using Ordering.Application.Contracts.Persistence;
+using Ordering.Application.Contracts.Persistance;
 using Ordering.Application.Models;
 using Ordering.Domain.Entities;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -17,10 +15,9 @@ namespace Ordering.Application.Features.Orders.Commands.CheckoutOrder
     {
         private readonly IOrderRepository _orderRepository;
         private readonly IMapper _mapper;
-        private readonly IEmailServices _emailService;
+        private readonly IEmailService _emailService;
         private readonly ILogger _logger;
-
-        public CheckoutOrderCommandHandler(IOrderRepository orderRepository, IEmailServices emailService,ILogger logger, IMapper mapper)
+        public CheckoutOrderCommandHandler(IOrderRepository orderRepository, IEmailService emailService, ILogger logger, IMapper mapper)
         {
             _orderRepository = orderRepository;
             _emailService = emailService;
@@ -46,7 +43,7 @@ namespace Ordering.Application.Features.Orders.Commands.CheckoutOrder
 
             try
             {
-                await _emailService.SendMail(email);
+                await _emailService.SendEmail(email);
             }
             catch (Exception ex)
             {
@@ -54,5 +51,4 @@ namespace Ordering.Application.Features.Orders.Commands.CheckoutOrder
             }
         }
     }
-}   
-
+}

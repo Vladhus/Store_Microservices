@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using System;
 using System.Collections.Generic;
 
 namespace Ordering.Application.Features.Orders.Queries.GetOrdersList
@@ -9,7 +10,7 @@ namespace Ordering.Application.Features.Orders.Queries.GetOrdersList
 
         public GetOrdersListQuery(string userName)
         {
-            UserName = userName;
+            UserName = userName ?? throw new ArgumentNullException(nameof(userName));
         }
     }
 }

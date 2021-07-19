@@ -14,7 +14,6 @@ D:\tempo\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Grpc.Core.Api.dll
 D:\tempo\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Grpc.Net.Client.dll
 D:\tempo\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
 D:\tempo\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Grpc.Net.Common.dll
-D:\tempo\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csprojAssemblyReference.cache
 D:\tempo\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.GeneratedMSBuildEditorConfig.editorconfig
 D:\tempo\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.AssemblyInfoInputs.cache
 D:\tempo\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.AssemblyInfo.cs

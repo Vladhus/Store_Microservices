@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LMsuNFMDpdXDMY+WizjGrXzDtE3N602iAF5fTkT+suEn5cXGtnWyx4etBjOepAKxIq0n1RzQT7syUXkhaoxOcw==",
+  "dgSpecHash": "mmgs1UzUHqBr2UqohqFtFeTR2lo8/FWWeMj12JEPnuKNsyl41Llw1mhVmBDpDCgnuen2FxOwk8QheOh4msm9VQ==",
   "success": true,
   "projectFilePath": "D:\\tempo\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

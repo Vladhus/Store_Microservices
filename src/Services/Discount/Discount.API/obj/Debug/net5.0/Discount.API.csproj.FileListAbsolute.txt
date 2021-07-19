@@ -21,7 +21,6 @@ D:\tempo\src\Services\Discount\Discount.API\bin\Debug\net5.0\Swashbuckle.AspNetC
 D:\tempo\src\Services\Discount\Discount.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\tempo\src\Services\Discount\Discount.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\tempo\src\Services\Discount\Discount.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-D:\tempo\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.csprojAssemblyReference.cache
 D:\tempo\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.GeneratedMSBuildEditorConfig.editorconfig
 D:\tempo\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.AssemblyInfoInputs.cache
 D:\tempo\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.AssemblyInfo.cs

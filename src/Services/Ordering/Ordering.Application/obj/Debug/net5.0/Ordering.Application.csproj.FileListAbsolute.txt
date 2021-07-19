@@ -1,0 +1,15 @@
+D:\tempo\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.deps.json
+D:\tempo\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.dll
+D:\tempo\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\ref\Ordering.Application.dll
+D:\tempo\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.pdb
+D:\tempo\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\tempo\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfoInputs.cache
+D:\tempo\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfo.cs
+D:\tempo\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CoreCompileInputs.cache
+D:\tempo\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.dll
+D:\tempo\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\ref\Ordering.Application.dll
+D:\tempo\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.pdb
+D:\tempo\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.dll
+D:\tempo\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.pdb
+D:\tempo\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csprojAssemblyReference.cache
+D:\tempo\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CopyComplete
