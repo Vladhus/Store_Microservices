@@ -50,3 +50,4 @@ D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Core.Api.dll
 D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Client.dll
 D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
 D:\tempo\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\tempo\src\Services\Basket\Basket.API\obj\Debug\net5.0\Basket.API.csprojAssemblyReference.cache

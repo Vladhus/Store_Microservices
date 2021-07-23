@@ -36,3 +36,4 @@ D:\tempo\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.dll
 D:\tempo\src\Services\Discount\Discount.API\obj\Debug\net5.0\ref\Discount.API.dll
 D:\tempo\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.pdb
 D:\tempo\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.genruntimeconfig.cache
+D:\tempo\src\Services\Discount\Discount.API\obj\Debug\net5.0\Discount.API.csprojAssemblyReference.cache

@@ -16,8 +16,8 @@ namespace Ordering.Application.Features.Orders.Commands.CheckoutOrder
         private readonly IOrderRepository _orderRepository;
         private readonly IMapper _mapper;
         private readonly IEmailService _emailService;
-        private readonly ILogger _logger;
-        public CheckoutOrderCommandHandler(IOrderRepository orderRepository, IEmailService emailService, ILogger logger, IMapper mapper)
+        private readonly ILogger<CheckoutOrderCommandHandler> _logger;
+        public CheckoutOrderCommandHandler(IOrderRepository orderRepository, IEmailService emailService, ILogger<CheckoutOrderCommandHandler> logger, IMapper mapper)
         {
             _orderRepository = orderRepository;
             _emailService = emailService;
