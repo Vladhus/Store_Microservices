@@ -1,0 +1,12 @@
+D:\tempo\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.deps.json
+D:\tempo\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.dll
+D:\tempo\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\ref\EventBus.Messages.dll
+D:\tempo\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.pdb
+D:\tempo\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csprojAssemblyReference.cache
+D:\tempo\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\tempo\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfoInputs.cache
+D:\tempo\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfo.cs
+D:\tempo\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+D:\tempo\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.dll
+D:\tempo\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\ref\EventBus.Messages.dll
+D:\tempo\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.pdb
