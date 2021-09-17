@@ -176,6 +176,27 @@ services:
     - published: 15672
       target: 15672
     restart: always
+  shopping.aggregator:
+    build:
+      context: D:\tempo\src
+      dockerfile: ApiGateways/Shopping.Aggregator/Dockerfile
+    container_name: shopping.aggregator
+    depends_on:
+      basket.api:
+        condition: service_started
+      catalog.api:
+        condition: service_started
+      ordering.api:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ApiSettings:BasketUrl: http://basket.api
+      ApiSettings:CatalogUrl: http://catalog.api
+      ApiSettings:OrderingUrl: http://ordering.api
+    image: shoppingaggregator
+    ports:
+    - published: 8005
+      target: 80
 version: '3.4'
 volumes:
   mongo_data: {}
